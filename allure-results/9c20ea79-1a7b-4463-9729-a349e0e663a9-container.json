@@ -1,0 +1,1 @@
+{"uuid":"9c20ea79-1a7b-4463-9729-a349e0e663a9","name":"tests.StockManagement.GRNTest","children":["951af44b-0a3c-424f-bed5-c73cadb1ba93"],"befores":[],"afters":[{"name":"teardownTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1751871264566,"stop":1751871264867}],"start":1751871256813,"stop":1751871264873}

@@ -1,0 +1,1 @@
+{"uuid":"b8d3258e-5903-458c-a138-c211cf923d2a","name":"tests.StockManagement.SupplierTest","children":["76018867-3065-4aef-9baa-7a10331d134b"],"befores":[],"afters":[{"name":"teardownTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1751880276150,"stop":1751880276497}],"start":1751880268573,"stop":1751880276601}
