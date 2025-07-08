@@ -1,0 +1,1 @@
+{"uuid":"f38cdfe0-1ae4-49a3-b1e5-4337f4a4bb26","name":"POS_Automation","children":["ae25cbce-00ad-405a-ba29-dd3659fa56a4"],"befores":[],"afters":[{"name":"teardownTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1751863901635,"stop":1751863901726}],"start":1751863889060,"stop":1751863901727}
