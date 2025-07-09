@@ -1,0 +1,1 @@
+{"uuid":"b5f3169a-7827-4af0-bdfc-035b561c5943","name":"POS_frontQA","children":["b16cac94-1b16-4420-81cc-5de75a9a05a9"],"befores":[],"afters":[{"name":"teardownTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1752039614900,"stop":1752039615251}],"start":1752039606531,"stop":1752039615251}
